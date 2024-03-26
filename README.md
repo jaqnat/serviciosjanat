@@ -4,8 +4,7 @@
     </title>
       /head>
     <body>
-      <h1>servicios mantenimiento automóviles</h1>
-       <a href='indice.html'>Acerca 1</a>
+            <a href='indice.html'>servicios mantenimiento automóviles</a>
     </body>
 </html>
 
