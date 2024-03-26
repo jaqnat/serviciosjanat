@@ -1,0 +1,256 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#piepagservicios {
+	position: absolute;
+	width: 1672px;
+	height: 187px;
+	z-index: 0;
+	left: 3px;
+	top: 1199px;
+	background-color: #3366FF;
+	color: #FFF;
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contenidoservicios {
+	position: absolute;
+	width: 1673px;
+	height: 937px;
+	z-index: 0;
+	left: 2px;
+	top: 265px;
+	background-color: #CC0033;
+	color: #FFF;
+	font-size: 32px;
+}
+#contenidoservicios div {
+	color: #000;
+}
+textocontenido {
+	color: #000;
+}
+#contenidoservicios p {
+	color: #FFF;
+	font-weight: bold;
+	font-size: 32px;
+	text-align: center;
+}
+#contenidoservicios div {
+	color: #FFF;
+}
+textocontenido {
+	color: #FFF;
+}
+#piepagservicios2 {
+	position: absolute;
+	width: 1672px;
+	height: 115px;
+	z-index: 0;
+	left: 6px;
+	top: 180px;
+	background-color: #3366FF;
+	color: #FFF;
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#listaservicios {
+	position: absolute;
+	width: 1672px;
+	height: 57px;
+	z-index: 1;
+	background-color: #CCCCCC;
+	top: 210px;
+	left: 3px;
+}
+#encabservicios {
+	position: absolute;
+	width: 1661px;
+	height: 174px;
+	z-index: 2;
+	background-color: #FFFFFF;
+	left: -13px;
+	top: 0px;
+}
+.titulo1 {
+	font-size: 24px;
+}
+.titulo1 {
+	font-size: 36px;
+}
+#contenidoservicios #serv tr td h2 {
+	font-size: 20px;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+}
+textoimag {
+	font-size: 5px;
+}
+.titulo1 {
+	font-size: 32px;
+	text-align: left;
+}
+.titulo2 {
+	font-size: 40px;
+	text-align: left;
+}
+textoimagen1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+textoimagen2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+</style>
+<link href="../SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	width: 1669px;
+	height: 144px;
+	z-index: 2;
+	background-color: #FFFFFF;
+	left: 1px;
+	top: 2px;
+}
+.textoimagen1 {
+	text-align: justify;
+	font-size: 32px;
+}
+textoimag1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+textoimag2 {
+	font-size: 18px;
+}
+textoimagen2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+textoimagen3 {
+	font-size: 24px;
+}
+textoimagen1 {
+	font-size: 18px;
+}
+textoimagen2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+textoimagen3 {
+	font-size: 20px;
+}
+textoimagen2 {
+	font-size: 20px;
+}
+#contenidoservicios #serv tr td .textoimagen1 {
+	font-size: 20px;
+}
+#contenidoservicios #serv tr td .textoimagen1 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 20px;
+}
+textoimagen3 {
+	font-size: 18px;
+}
+textoimagen3 {
+	font-size: 32px;
+}
+textoimagen4 {
+	font-size: 34px;
+}
+textoimagen4 {
+	font-size: 32px;
+}
+textoimagen4 {
+	font-size: 32px;
+}
+textoimagen5 {
+	font-size: 24px;
+}
+</style>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id="piepagservicios">
+  <div> 
+    <p>&nbsp;</p>
+    <p>Direccion: Cl. 11B Sur #44-18 El Poblado, Medellín-Antioquia</p>
+  </div>
+  <p>Teléfono: 604- 4448974  - Whatsapp: 3117380237  </p>
+  <p>Correo Electrónico: autosjanat@gmail.com </p>
+  <p>&nbsp;</p>
+</div>
+<div id="contenidoservicios">
+  <div></div>
+  <!-- TemplateBeginEditable name="contenidoservicios" -->
+  <p align="center">&nbsp;</p>
+  <p><span class="titulo1"><span class="titulo2">MANTENIMIENTO</span></span></p>
+  <p>&nbsp;</p>
+  <!-- TemplateEndEditable -->
+  <h2 align="center" class="titulo1"><span class="titulo2">Cuando decides tener un 
+    auto es importante 
+    contemplar las  obligaciones y 
+    responsabilidades que este 
+    conlleva para asegurar tu 
+    bienestar y la de  terceros, 
+    por ello, es necesario  saber 
+    en qué consiste el 
+  mantenimiento automotriz.</span></h2>
+  <h2 align="center" class="titulo1"><span class="titulo2"><span class="textoimagen1">El mantenimiento automotriz es una revisión regular que  necesitan 
+    los autos con el fin de procurar su buen funcionamiento y  evitar daños 
+    que puedan surgir a través del tiempo o con el uso.</span></span></h2>
+  <p align="center">&nbsp;</p>
+  <h2 align="center" class="titulo1">Al hacer el mantenimiento automotriz evitas el deterioro  anticipado de 
+    tu auto e incrementas las posibilidades de hacer  recorridos seguros.    De esta manera, cuando manejas tu auto y escuchas un  sonido extraño 
+    o detectas alguna falla mecánica, puede deberse a la  falta de 
+  mantenimiento ocasionando un gasto inesperado.</h2>
+  <h2 align="center" class="titulo1">&nbsp;</h2>
+  <h2 align="center" class="titulo1">Los contratiempos antes mencionados pueden ocurrir 
+    en cualquier instante y aparecer con mayor frecuencia<br>
+  si tu auto no  recibe el mantenimiento automotriz adecuado.&nbsp;</h2>
+  <h2 align="center" class="titulo1">&nbsp;</h2>
+<p align="center">&nbsp;</p>
+  <p align="center">&nbsp;</p>
+</div>
+<div id="listaservicios">
+  <ul id="listas" class="MenuBarVertical">
+    <li><a class="MenuBarItemSubmenu" href="#">SERVICIOS AUTOS</a>
+      <ul>
+        <li><a href="#"> </a></li>
+        <li><a href="plantillaservicios.dwt">Servicios Autos</a></li>
+        <li><a href="plantillamontallantas.dwt">Montallantas</a></li>
+        <li><a href="plantillaalineacyb.dwt">Alineaci&oacute;n y Balanceo</a></li>
+</ul>
+    </li>
+  </ul>
+</div>
+<p>&nbsp;</p>
+<div id="encabservicios">
+  <table width="1698" height="121" border="0">
+    <tr>
+      <td width="613"><img src="../IMAGENES/encabezadoserv1.jpg" width="615" height="205" alt="encabserv1"></td>
+      <td width="442"><img src="../IMAGENES/encabezadoserv3.jpeg" width="446" height="207" alt="encabserv3"></td>
+      <td width="629"><img src="../IMAGENES/encabezadoserv2.jpg" width="615" height="205" alt="encabserv2"></td>
+    </tr>
+  </table>
+</div>
+<p></p>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("listas", {imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
